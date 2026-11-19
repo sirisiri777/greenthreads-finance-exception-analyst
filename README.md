@@ -153,8 +153,14 @@ A human Finance professional should remain accountable for consequential decisio
 
 ## Repository contents
 
+- ## Repository contents
+
 - `README.md`
 - `Project_Instructions.md`
 - `Test_Log.md`
-
-Add the approved knowledge files to the repository as appropriate for the course submission.
+- `01_GreenThreads_Case_Brief.pdf`
+- `02_GT_Finance_Spend_Transactions.csv`
+- `03_Finance_Source_Documents.pdf`
+- `04_HW1_Functional_Brief_Finance.docx`
+- `05_HW2_Document_Intelligence_Finance.docx`
+- `06_HW3_Data_Intelligence_Finance.docx`
