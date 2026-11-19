@@ -1,0 +1,56 @@
+Txn_ID,Txn_Date,Budget_Line,Category,Owner_Function,Vendor,Amount_USD,Payment_Status,Invoice_Ref
+TXN-9107,2026-06-02,Permits & inspection,Buildout,Operations,Front Range Construction,714.51,Paid,INV-28650
+TXN-9119,2026-06-02,Opening buy - catalog SKUs,Inventory,Operations,Delta Organics,4005.01,Paid,INV-21484
+TXN-9102,2026-06-03,General contractor,Buildout,Operations,Mile High Millwork,9575.92,Paid,INV-20274
+TXN-9105,2026-06-03,Signage,Buildout,Operations,Baseline Furniture,1634.52,Paid,INV-28609
+TXN-9125,2026-06-04,Search,Marketing,Marketing,Klaviyo,2725.04,Paid,INV-20697
+TXN-9129,2026-06-04,Launch event,Marketing,Marketing,Meta Platforms,1712.01,Paid,INV-23072
+TXN-9137,2026-06-04,Local partnerships,Marketing,Marketing,Klaviyo,382.02,Paid,INV-22982
+TXN-9106,2026-06-05,Permits & inspection,Buildout,Operations,City of Denver,677.81,Paid,INV-22729
+TXN-9126,2026-06-05,Search,Marketing,Marketing,Google Ads,3003.56,Paid,INV-23384
+TXN-9122,2026-06-08,Paid social,Marketing,Marketing,Denver Eco Collective,2325.78,Paid,INV-20776
+TXN-9148,2026-06-08,POS hardware,Technology,Operations,Lightspeed,2636.17,Paid,INV-21064
+TXN-9149,2026-06-08,POS hardware,Technology,Operations,Square,859.68,Paid,INV-25119
+TXN-9112,2026-06-09,Permits & inspection,Buildout,Operations,Baseline Furniture,326.28,Paid,INV-27078
+TXN-9120,2026-06-09,Opening buy - catalog SKUs,Inventory,Operations,Delta Organics,3115.48,Paid,INV-29522
+TXN-9138,2026-06-09,Recruiting & job boards,People,HR,Indeed,634.50,Pending,INV-22140
+TXN-9143,2026-06-09,Training,People,HR,GreenThreads Payroll,904.12,Pending,INV-21537
+TXN-9141,2026-06-11,Recruiting & job boards,People,HR,Indeed,1507.03,Paid,INV-24626
+TXN-9124,2026-06-12,Search,Marketing,Marketing,Denver Eco Collective,2321.50,Paid,INV-23005
+TXN-9130,2026-06-14,Email & CRM,Marketing,Marketing,Meta Platforms,998.61,Paid,INV-29339
+TXN-9134,2026-06-14,Local partnerships,Marketing,Marketing,Klaviyo,699.79,Pending,INV-29469
+TXN-9123,2026-06-15,Search,Marketing,Marketing,Google Ads,2938.33,Paid,INV-24731
+TXN-9132,2026-06-16,Email & CRM,Marketing,Marketing,Klaviyo,1561.53,Pending,INV-22173
+TXN-9133,2026-06-16,Local partnerships,Marketing,Marketing,Meta Platforms,554.97,Paid,INV-25789
+TXN-9118,2026-06-17,Opening buy - focus SKUs,Inventory,Operations,Mekong Textile Co.,16668.82,Pending,INV-23356
+TXN-9135,2026-06-18,Local partnerships,Marketing,Marketing,Klaviyo,471.78,Paid,INV-27992
+TXN-9154,2026-06-18,Software licenses,Technology,Operations,Comcast Business,304.87,Paid,INV-21837
+TXN-9110,2026-06-20,Permits & inspection,Buildout,Operations,City of Denver,520.10,Pending,INV-20130
+TXN-9111,2026-06-20,Permits & inspection,Buildout,Operations,Baseline Furniture,548.42,Paid,INV-29722
+TXN-9142,2026-06-20,Pre-opening payroll,People,HR,LinkedIn Talent,6632.80,Paid,INV-28058
+TXN-9131,2026-06-21,Email & CRM,Marketing,Marketing,Bluebird Events,894.28,Paid,INV-24730
+TXN-9144,2026-06-22,Training,People,HR,Uniform Works,2485.24,Paid,INV-29772
+TXN-9104,2026-06-23,Signage,Buildout,Operations,Front Range Construction,1717.02,Paid,INV-20775
+TXN-9151,2026-06-23,Network & install,Technology,Operations,Square,439.68,Pending,INV-29301
+TXN-9103,2026-06-25,Fixtures & millwork,Buildout,Operations,Front Range Construction,7110.95,Paid,INV-28797
+TXN-9153,2026-06-25,Software licenses,Technology,Operations,Comcast Business,633.37,Paid,INV-22057
+TXN-9109,2026-06-27,Permits & inspection,Buildout,Operations,City of Denver,768.83,Paid,INV-26029
+TXN-9139,2026-06-27,Recruiting & job boards,People,HR,Uniform Works,620.81,Paid,INV-29457
+TXN-9152,2026-06-27,Software licenses,Technology,Operations,Comcast Business,458.06,Paid,INV-24283
+TXN-9145,2026-06-28,Training,People,HR,Indeed,2198.50,Pending,INV-21340
+TXN-9150,2026-06-29,Network & install,Technology,Operations,Lightspeed,1316.89,Paid,INV-29194
+TXN-9116,2026-06-30,Furniture,Buildout,Operations,Summit Signs,1284.32,Paid,INV-23452
+TXN-9113,2026-07-04,Furniture,Buildout,Operations,Baseline Furniture,689.29,Paid,INV-23337
+TXN-9117,2026-07-04,Opening buy - focus SKUs,Inventory,Operations,Delta Organics,6445.40,Paid,INV-25806
+TXN-9101,2026-07-05,General contractor,Buildout,Operations,Summit Signs,19028.01,Paid,INV-23828
+TXN-9115,2026-07-05,Furniture,Buildout,Operations,City of Denver,935.91,Paid,INV-25115
+TXN-9108,2026-07-07,Permits & inspection,Buildout,Operations,City of Denver,957.01,Pending,INV-25842
+TXN-9136,2026-07-07,Local partnerships,Marketing,Marketing,Google Ads,622.15,Paid,INV-22329
+TXN-9147,2026-07-07,Uniforms,People,HR,LinkedIn Talent,1460.46,Paid,INV-21087
+TXN-9100,2026-07-08,General contractor,Buildout,Operations,Baseline Furniture,4216.86,Paid,INV-27200
+TXN-9114,2026-07-08,Furniture,Buildout,Operations,City of Denver,904.99,Paid,INV-23469
+TXN-9140,2026-07-08,Recruiting & job boards,People,HR,GreenThreads Payroll,880.54,Paid,INV-22771
+TXN-9128,2026-07-09,Launch event,Marketing,Marketing,Google Ads,2250.29,Pending,INV-25813
+TXN-9127,2026-07-10,Search,Marketing,Marketing,Meta Platforms,1415.13,Pending,INV-29069
+TXN-9146,2026-07-11,Training,People,HR,GreenThreads Payroll,234.56,Paid,INV-27720
+TXN-9121,2026-07-12,Opening buy - catalog SKUs,Inventory,Operations,Song Hong Apparel,3889.28,Paid,INV-29364
