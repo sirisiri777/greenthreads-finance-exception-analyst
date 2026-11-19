@@ -153,8 +153,6 @@ A human Finance professional should remain accountable for consequential decisio
 
 ## Repository contents
 
-- ## Repository contents
-
 - `README.md`
 - `Project_Instructions.md`
 - `Test_Log.md`
